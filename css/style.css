@@ -34,3 +34,21 @@
   .navbar-dark{
       background-color: #512DA8;
   }
+  #reserve{
+      background-color: #de9c39;
+      padding: 10px 40px 10px 40px;
+      border:none;
+  }     
+ #reserve span{
+     color:black;
+     font-size: 1.2em;
+ }
+ #reserveT{
+     background-color: #de9c39;
+ }
+ .tab-content{
+     border-left: 1px solid #ddd;
+     border-right: 1px solid #ddd;
+     border-bottom: 1px solid #ddd;
+     padding:10px;
+ }
