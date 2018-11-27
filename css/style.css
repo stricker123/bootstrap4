@@ -67,3 +67,6 @@
      left:0;
      min-height: 300px;
  }
+ .modal-dialog {
+     background-color: white;
+ }
